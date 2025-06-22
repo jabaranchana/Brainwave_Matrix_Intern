@@ -17,5 +17,4 @@ To view the app:
 
 ---
 
-## 📂 Project Structure
 
